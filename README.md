@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Animesh-singh8
 - 👀 I’m interested in software development apps and game development
-- 🌱 I’m currently learning python and i am in 12th standard
+- 🌱 I’m currently pursuing btech with cce and data science
 - 💞️ no collaboration right now....still learning
 - 📫 How to reach me u can dm me on my insta id www.instagram.com/animesh_singh8
 

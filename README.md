@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Animesh-singh8
-- 👀 I’m interested in software development apps and game development
-- 🌱 I’m currently pursuing btech with cce and data science
+- 👀 I’m interested in cybersecurity and networking
+- 🌱 I’m currently pursuing btech with cce
 - 💞️ no collaboration right now....still learning
 - 📫 How to reach me u can dm me on my insta id www.instagram.com/animesh_singh8
 
